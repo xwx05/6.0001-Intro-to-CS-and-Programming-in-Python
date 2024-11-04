@@ -1,1 +1,1 @@
-# 6.0001-Intro-to-CS-and-Programming-in-Python-
+# My notes for lecture codes and assignments here
